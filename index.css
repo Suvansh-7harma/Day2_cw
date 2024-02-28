@@ -1,0 +1,24 @@
+.Heading{
+    color: black;
+    font-size: 55px;
+    text-align: center;
+}
+.paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 33px;
+}
+/* #root{
+    color: black;
+    height:5vh;
+    width:100%;
+    background-color: blueviolet;
+    font-size: 100%;
+}
+h1{
+    font-size: 1rem;
+} */
+.para{
+    font-size: 3.5vh;
+    width: 50vw;
+    margin-left: 22vw;
+}
